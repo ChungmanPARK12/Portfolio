@@ -44,11 +44,24 @@ Method, showing image, description and click button to the link
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects)
 
-<h3>data/Projects.js</h3>
+<h3>data/projects.js</h3>
 
 Contain actual, title, image, description and link
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects/projects)
+
+<h2>SocialProfile.js</h2>
+
+Method, click image to the link
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects)
+
+<h3>data/socialProfile.js</h3>
+
+Contain actual image and link
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects/projects)
+
 
 ## Thank you
 Thank you for visiting my github :)
