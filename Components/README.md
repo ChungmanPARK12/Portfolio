@@ -54,13 +54,13 @@ Contain actual, title, image, description and link
 
 Method, click image to the link
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/a0c0187502f451a05c4ee13dacc373da39a35084/Links/SocialProfile)
 
 <h3>data/socialProfile.js</h3>
 
 Contain actual image and link
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects/projects)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/a0c0187502f451a05c4ee13dacc373da39a35084/Links/SocialProfile/socialProfiles)
 
 
 ## Thank you
