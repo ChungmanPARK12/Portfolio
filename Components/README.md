@@ -30,7 +30,7 @@ Contain a main profile image, Titles and toggleDisplayBio
 
 Contain title objects, animate and timeout functions
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/9295a7ac882269a154921a99f74184f5c4a7b6ae/Links)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/3c131b62b55b12d58c4fe97bad73f9ee8e2bc125/Links/Title)
 
 <h2>Header.js</h2>
 
