@@ -42,13 +42,13 @@ API, request data
 
 Method, showing image, description and click button to the link
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/48fc169909c565fafe2b68f4625cb619cf084d9f/Links/Joke)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects)
 
 <h3>data/Projects.js</h3>
 
 Contain actual, title, image, description and link
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/48fc169909c565fafe2b68f4625cb619cf084d9f/Links/Joke)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects/projects)
 
 ## Thank you
 Thank you for visiting my github :)
