@@ -26,6 +26,12 @@ Contain a main profile image, Titles and toggleDisplayBio
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/9295a7ac882269a154921a99f74184f5c4a7b6ae/Links)
 
+<h2>Title.js</h2>
+
+Contain title objects, animate and timeout functions
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/9295a7ac882269a154921a99f74184f5c4a7b6ae/Links)
+
 <h2>Header.js</h2>
 
 Contain Headers and link
