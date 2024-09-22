@@ -24,7 +24,7 @@
 
 Contain Profile Image, Title and toggleDisplayBio
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/API/tree/09a744dac35c59aaa0aa071d3c258a9ffa979694/src/StudentController)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/9295a7ac882269a154921a99f74184f5c4a7b6ae/Links)
 
 ## Thank you
 Thank you for visiting my github :)
