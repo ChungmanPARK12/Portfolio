@@ -1,7 +1,7 @@
  
  # Portfolio
 
-![port](https://github.com/user-attachments/assets/85420238-d454-4ef7-b39e-f7a1ee5d9efb)
+![Newport](https://github.com/user-attachments/assets/a0d14727-9bad-42d8-93f5-0e5bea71ed70)
 
 <h2>Installation</h2>
 
