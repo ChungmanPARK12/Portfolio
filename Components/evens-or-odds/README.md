@@ -47,13 +47,13 @@ Show the next card, button click, connection deck
 
 Show count of result, method from gameState and guess
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/48fc169909c565fafe2b68f4625cb619cf084d9f/Links/Joke)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/bf347f426e42175c4d1c4650a25f66b647fe63b7/Components/evens-or-odds/Links/GameState)
 
 <h2>Guess.js</h2>
 
 Click button, play game, method from gameState and guess
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/bf347f426e42175c4d1c4650a25f66b647fe63b7/Components/evens-or-odds/Links/GameState)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/912d2aa10c388d3398af607b853563f288a3e6ac/Components/evens-or-odds/Links/Guess)
 
 <h3>Instructions.js</h3>
 
