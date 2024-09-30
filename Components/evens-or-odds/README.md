@@ -67,31 +67,31 @@ Show messages, methods expand and collaps from setting
 
 Handle state messages method
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/a0c0187502f451a05c4ee13dacc373da39a35084/Links/SocialProfile)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/deck)
 
 <h2>fetchStates.js</h2>
 
 Defulat value,deck
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/a0c0187502f451a05c4ee13dacc373da39a35084/Links/SocialProfile/socialProfiles)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/fetchStates)
 
 <h2>gameState.js</h2>
 
 Game playing method
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/0b34356e261aacefd3329fb81a09e1fac7c4ed0b/Links/Css)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/gameState)
 
 <h2>index.js</h2>
 
 Default value, deck, setting, gameState
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/0b34356e261aacefd3329fb81a09e1fac7c4ed0b/Links/Css)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/index)
 
 <h2>settings.js</h2>
 
 Buttoin clicking action method, game startd and instruction
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/0b34356e261aacefd3329fb81a09e1fac7c4ed0b/Links/Css)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/settings)
 
 ## Thank you
 Thank you for visiting my github :)
