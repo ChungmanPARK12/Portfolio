@@ -59,7 +59,7 @@ Click button, play game, method from gameState and guess
 
 Show messages, methods expand and collaps from setting
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects/projects)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/59b6c0bf1fcd8bb80dd8e67946514b8f86e9161e/Components/evens-or-odds/Links/Instructions)
 
 ## Reducers ##
 
