@@ -89,7 +89,7 @@ Default value, deck, setting, gameState
 
 <h2>settings.js</h2>
 
-Buttoin clicking action method, game startd and instruction
+Button clicking action method, game startd and instruction
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/settings)
 
