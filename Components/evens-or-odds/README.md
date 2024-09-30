@@ -55,7 +55,7 @@ Click button, play game, method from gameState and guess
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/912d2aa10c388d3398af607b853563f288a3e6ac/Components/evens-or-odds/Links/Guess)
 
-<h3>Instructions.js</h3>
+<h2>Instructions.js</h2>
 
 Show messages, methods expand and collaps from setting
 
@@ -63,19 +63,33 @@ Show messages, methods expand and collaps from setting
 
 ## Reducers ##
 
-<h2>SocialProfile.js</h2>
+<h2>deck.js</h2>
 
-Method, click image to the link
+Handle state messages method
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/a0c0187502f451a05c4ee13dacc373da39a35084/Links/SocialProfile)
 
-<h3>data/socialProfile.js</h3>
+<h2>fetchStates.js</h2>
 
-Contain actual image and link
+Defulat value,deck
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/a0c0187502f451a05c4ee13dacc373da39a35084/Links/SocialProfile/socialProfiles)
 
-<h2>Index.css</h2>
+<h2>gameState.js</h2>
+
+Game playing method
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/0b34356e261aacefd3329fb81a09e1fac7c4ed0b/Links/Css)
+
+<h2>index.js</h2>
+
+Default value, deck, setting, gameState
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/0b34356e261aacefd3329fb81a09e1fac7c4ed0b/Links/Css)
+
+<h2>settings.js</h2>
+
+Buttoin clicking action method, game startd and instruction
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/0b34356e261aacefd3329fb81a09e1fac7c4ed0b/Links/Css)
 
