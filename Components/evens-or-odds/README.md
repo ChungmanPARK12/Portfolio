@@ -29,19 +29,19 @@
 
 Contain a main game screen and methods, GameState,Guess,DrawCard,Card and Instructions 
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/9295a7ac882269a154921a99f74184f5c4a7b6ae/Links)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/bf347f426e42175c4d1c4650a25f66b647fe63b7/Components/evens-or-odds/Links)
 
 <h2>Card.js</h2>
 
 Show the value, suit and image from API, connection deck
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/3c131b62b55b12d58c4fe97bad73f9ee8e2bc125/Links/Title)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/bf347f426e42175c4d1c4650a25f66b647fe63b7/Components/evens-or-odds/Links/Card)
 
 <h2>DrawCard.js</h2>
 
 Show the next card, button click, connection deck
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/d8f126a0d2656d92f13f227f8a9dc8e5f7a19aaf/Links/Header)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/bf347f426e42175c4d1c4650a25f66b647fe63b7/Components/evens-or-odds/Links/DrawCard)
 
 <h2>GameState.js</h2>
 
@@ -53,13 +53,7 @@ Show count of result, method from gameState and guess
 
 Click button, play game, method from gameState and guess
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects)
-
-<h2>Guess.js</h2>
-
-Click button, play game, method from gameState and guess
-
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/c6372002e3308cd53bbb33a278966b0f2da6aaaf/Links/Projects)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/bf347f426e42175c4d1c4650a25f66b647fe63b7/Components/evens-or-odds/Links/GameState)
 
 <h3>Instructions.js</h3>
 
