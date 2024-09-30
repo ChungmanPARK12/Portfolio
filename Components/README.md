@@ -70,7 +70,7 @@ Contain actual image and link
 
 <h2>Index.css</h2>
 
-* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/a0c0187502f451a05c4ee13dacc373da39a35084/Links/SocialProfile/socialProfiles)
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/0b34356e261aacefd3329fb81a09e1fac7c4ed0b/Links/Css)
 
 ## Thank you
 Thank you for visiting my github :)
