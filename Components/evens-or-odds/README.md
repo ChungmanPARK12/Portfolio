@@ -61,7 +61,7 @@ Show messages, methods expand and collaps from setting
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/59b6c0bf1fcd8bb80dd8e67946514b8f86e9161e/Components/evens-or-odds/Links/Instructions)
 
-## Reducers ##
+## Reducers 
 
 <h2>deck.js</h2>
 
@@ -92,6 +92,33 @@ Default value, deck, setting, gameState
 Button clicking action method, game startd and instruction
 
 * ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/settings)
+
+## Action 
+
+<h2>deck.js</h2>
+
+API recourse, method of Card and DrawCard
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/settings)
+
+<h2>guess.js</h2>
+
+Show result of Even or Odd, method of game playing
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/settings)
+
+<h2>settings.js</h2>
+
+Method of button clicking in App main
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/settings)
+
+<h2>types.js</h2>
+
+Method handing error message
+
+* ### Example of Code [Click here](https://github.com/ChungmanPARK12/Portfolio/tree/f8f75232296f0f2771acea0521a201ebcc96bbde/Components/evens-or-odds/Links/reducers/settings)
+
 
 ## Thank you
 Thank you for visiting my github :)
